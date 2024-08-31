@@ -1,3 +1,3 @@
-<h1>Aprendiendo gi y github</h1>
+<h1>Aprendiendo git y github</h1>
 
 <p>...</p>
